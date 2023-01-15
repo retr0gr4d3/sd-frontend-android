@@ -11,8 +11,8 @@ General idea is to have the initial tab set up as "login", allowing users to ent
 Also needs download functionality. The only feature this app is aiming to support is the text to image features. Other tabs such as img2img and the rest are beyond the scope of this project. The aim is to simply have a clean material ui interface on the mobile device which simply sends and recieves to and from the API.
 
 
-
-
+### SAVE A SCREENSHOT BEFORE EVERY COMMIT TO THE SRC FOLDER, AND CHANGE IMAGE BELOW SO THAT IT DISPLAYS THE CURRENT STATE OF THE APPLICATION.
+![initial upload](https://github.com/retr0gr4d3/sd-frontend-android/blob/main/src/Screenshot_20230115_004715.png)
 
 
 
