@@ -20,4 +20,4 @@ supposed needed API stuff is:
 - GET /login_check
 - POST /login
 - POST /sdapi/v1/txt2img
-???
+- ???
